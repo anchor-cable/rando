@@ -17,3 +17,4 @@ class TodoList(models.Model): #Todolist able name that inherits models.Model
         ordering = ["-created"] #ordering by the created field
     def __str__(self):
         return self.title #name to be shown when called
+2
