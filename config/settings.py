@@ -15,7 +15,8 @@ SECRET_KEY = '=0a6sf_fjp(z5fdcxpr6erwd$&06lu5n=f&!wri3k2c92h@-58'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 
-ALLOWED_HOSTS = ['aqueous-sierra-91293.herokuapp.com']
+ALLOWED_HOSTS = []
+
 
 # Application definition
 
@@ -30,6 +31,7 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
