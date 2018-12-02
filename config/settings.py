@@ -5,7 +5,7 @@ import dj_database_url
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-DEBUG = True
+DEBUG = False
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
@@ -126,9 +126,9 @@ try:
 except ImportError:
     pass
 
-#if not DEBUG:
-#    import django_heroku
-#    django_heroku.settings(locals())
+if not DEBUG:
+    import django_heroku
+    django_heroku.settings(locals())
 
 import django_heroku
 django_heroku.settings(locals())

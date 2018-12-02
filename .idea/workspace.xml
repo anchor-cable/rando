@@ -16,10 +16,11 @@
     <session id="-1620284851">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -29,7 +30,7 @@
           <entry key="css" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="2" />
-          <entry key="py" value="13" />
+          <entry key="py" value="14" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
@@ -38,7 +39,7 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="2" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="13" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -46,14 +47,23 @@
           <entry key="Procfile" value="6" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="11" />
+<<<<<<< HEAD
           <entry key="py" value="235" />
+=======
+          <entry key="py" value="244" />
+>>>>>>> 2b24ebe826c7aa8b56b585bea6491e716a1b5a99
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="11" />
+<<<<<<< HEAD
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="Python" value="235" />
+=======
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="244" />
+>>>>>>> 2b24ebe826c7aa8b56b585bea6491e716a1b5a99
         </counts>
       </usages-collector>
     </session>
@@ -63,8 +73,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/settings.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="193">
               <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+=======
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+>>>>>>> 2b24ebe826c7aa8b56b585bea6491e716a1b5a99
             </state>
           </provider>
         </entry>
@@ -82,7 +97,11 @@
         <entry file="file://$PROJECT_DIR$/config/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
+<<<<<<< HEAD
               <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+=======
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+>>>>>>> 2b24ebe826c7aa8b56b585bea6491e716a1b5a99
             </state>
           </provider>
         </entry>
@@ -101,6 +120,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -147,20 +175,25 @@
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/todolist/wsgi.py" />
         <option value="$PROJECT_DIR$/Procfile.py" />
-        <option value="$PROJECT_DIR$/config/wsgi.py" />
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/todolist/models.py" />
         <option value="$PROJECT_DIR$/config/local_settings.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/config/wsgi.py" />
         <option value="$PROJECT_DIR$/config/settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="350" />
     <option name="y" value="108" />
+=======
+    <option name="x" value="318" />
+    <option name="y" value="109" />
+>>>>>>> 2b24ebe826c7aa8b56b585bea6491e716a1b5a99
     <option name="width" value="1036" />
     <option name="height" value="729" />
   </component>
@@ -236,7 +269,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="350" y="108" width="1036" height="729" extended-state="0" />
+=======
+    <frame x="318" y="109" width="1036" height="729" extended-state="0" />
+>>>>>>> 2b24ebe826c7aa8b56b585bea6491e716a1b5a99
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20788178" />
@@ -327,16 +364,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
+<<<<<<< HEAD
+=======
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+>>>>>>> 2b24ebe826c7aa8b56b585bea6491e716a1b5a99
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/local_settings.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="750">
           <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+=======
+        <state relative-caret-position="255">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+>>>>>>> 2b24ebe826c7aa8b56b585bea6491e716a1b5a99
         </state>
       </provider>
     </entry>
@@ -347,15 +399,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/config/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
+<<<<<<< HEAD
           <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+=======
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+>>>>>>> 2b24ebe826c7aa8b56b585bea6491e716a1b5a99
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/urls.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="255">
           <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
         </state>
@@ -372,6 +429,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+=======
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+>>>>>>> 2b24ebe826c7aa8b56b585bea6491e716a1b5a99
         </state>
       </provider>
     </entry>
